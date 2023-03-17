@@ -1,19 +1,17 @@
 ---
 templateKey: 'about-page'
 path: /about
-title: About our values
----
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+title: About me
+### My name
+About that logo: if you google ['wayang Irawan'](https://www.google.com.au/search?q=wayang+irawan), that where it's from.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+### Me
+I'm a digital content producer, front end developer and a freelance website designer focusing on CMS such as Drupal and Wordpress.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+I like playing around with some digital stuff like taking photos of anything, making video for fun, do some animation with Adobe Illustrator and After Effecfs or play my electronic music or spinning my DJ controller at home quietly. Spare time is a luxury at the moment since the baby joined the family.
+
+My formal degree is a Bachelor of Science in Biology majoring Marine Ecology but my passion changed to digital world not long after I finished the study. Started making website since 2004 and decided to be a freelance website designer in 2009 for small business in Darwin and still loving it. Beside making website for small businesses and organisations, I also have been working as content producer and webmaster at the seafood industry council, health organisation and latest one at the university.
+
+Although it may sounds like spend all of my life in front of screen or indoor and don't get out off my desk a lot, I do play some sports and like outdoor activities. Living in the tropical of Australia is a perfect outdoor territory as there are not many other things to do indoor. Recently I have been spending my tiny bit of my weekends kayaking around Darwin water. and beautiful Roebuck Bay of Broome.
